@@ -1,0 +1,16 @@
+
+modLoader="javafml"
+
+loaderVersion="[47,)"
+
+license="MIT"
+
+[[mods]]
+
+modId="treechopmod"
+
+version="1.0.0"
+
+displayName="Tree Chop Mod"
+description='''treecut'''
+#description= "Tree Chop Mod Resources"
